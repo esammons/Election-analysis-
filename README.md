@@ -1,25 +1,25 @@
-# PyPoll Challenge
+# Election-analysis 
 
 ## Overview of Election Audit:
-### Purpose of the audit is to determine which county and candidate had the highest votes from a CSV file. 
+* The purpose of the election analysis was to take election data gathered in a csv file and return which county had the highest number of votes as well as the candidate with the highest votes. 
+## Election-analysis Results: 
+* there was a total Votes: 369,711
+### County Breakdown
+* Jefferson: 10.5% (38,855)
 
-## Election-Audit Results: 
-### Total Votes: 369,711
-#### 1. Jefferson: 10.5% (38,855)
+* Denver: 82.8% (306,055)
 
-#### 2. Denver: 82.8% (306,055)
+* Arapahoe: 6.7% (24,801)
 
-#### 3. Arapahoe: 6.7% (24,801)
-
-#### Largest County Turnout: Denver
+* The largest number of votes was Denver county with 306,055. 
 
 ### Congressional Candidates 
 
-#### 1. Charles Casper Stockham: 23.0% (85,213)
+* Charles Casper Stockham: 23.0% (85,213)
 
-#### 2. Diana DeGette: 73.8% (272,892)
+* Diana DeGette: 73.8% (272,892)
 
-#### 3. Raymon Anthony Doane: 3.1% (11,606)
+* Raymon Anthony Doane: 3.1% (11,606)
 
 #### -------------------------
 #### Winner: Diana DeGette
